@@ -2,7 +2,7 @@
 
 namespace PatternMatching
 {
-    // ge
+    // get
     internal class Program
     {
         private static void Main(string[] args)
