@@ -8,6 +8,7 @@ namespace PatternMatching
         private static void Main(string[] args)
         {
             DeclarationTypePattern();
+            // g
 
             TollCalculator.CalculateToll(new Truck());
 
